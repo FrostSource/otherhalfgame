@@ -1404,8 +1404,8 @@ body {
   background-color: #2e2e2e;
 }
 .cid-rq9XC9TkG1 .line {
-  background-color: #ffffff;
-  color: #ffffff;
+  background-color: #408e5c;
+  color: #408e5c;
   align: center;
   height: 2px;
   margin: 0 auto;
@@ -1443,6 +1443,9 @@ body {
 }
 .cid-rq9GwlaDQy P {
   color: #efefef;
+}
+.cid-rq9GwlaDQy .card-title {
+  color: #408e5c;
 }
 .cid-rq9QyTGOCa {
   padding-top: 60px;
@@ -1509,8 +1512,8 @@ body {
   }
 }
 .cid-rq9Sn9LSUT {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 45px;
+  padding-bottom: 45px;
   background-color: #232323;
 }
 .cid-rq9Sn9LSUT .mbr-section-subtitle {
@@ -1554,7 +1557,7 @@ body {
   }
 }
 .cid-rq9Sn9LSUT H2 {
-  color: #efefef;
+  color: #408e5c;
 }
 .cid-rq9SWDplFI {
   padding-top: 15px;
@@ -1592,9 +1595,6 @@ body {
 .cid-rq9SWDplFI .btn-social {
   border: none !important;
 }
-.cid-rq9SWDplFI .btn-social {
-  border-radius: 0 !important;
-}
 .cid-rq9SWDplFI [class^="socicon-"]:before,
 .cid-rq9SWDplFI [class*=" socicon-"]:before {
   line-height: 44px;
@@ -1604,9 +1604,12 @@ body {
     font-size: 20px !important;
   }
 }
+.cid-rq9SWDplFI .mbr-section-title {
+  color: #408e5c;
+}
 .cid-rq9SUrBgqS {
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 30px;
   background-color: #2e2e2e;
 }
 @media (max-width: 767px) {
@@ -1671,4 +1674,7 @@ body {
     -webkit-justify-content: center;
     justify-content: center;
   }
+}
+.cid-rq9SUrBgqS H5 {
+  color: #408e5c;
 }
